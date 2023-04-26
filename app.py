@@ -19,4 +19,4 @@ def get_movie_by_id(id):
         if movie.get('id') == id:
             return jsonify(movie)
 
-app.run(host='localhost', port=5000)
+app.run()
