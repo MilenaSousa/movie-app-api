@@ -6,6 +6,10 @@ app = Flask(__name__)
 with open("movies.json") as dados:
     movies = json.load(dados)
 
+# Add uma um retorno para a raiz
+@app.route("/")
+def index():
+    return "Bem vindo(a) a API Movies!"
 
 # Retorna todos os livros
 @app.route('/movies', methods = ['GET'])
@@ -19,5 +23,3 @@ def get_movie_by_id(id):
         if movie.get('id') == id:
             return jsonify(movie)
 
-if __name__=="__main__":
-    app.run(host='127.0.0.9',port=4455) 
