@@ -10,7 +10,11 @@
             "release_year": "2022",
             "duration": "1h 42min",
             "distribution": "BBC Film",
-            "genres": "Drama,Familia,Emoção",
+            "genres": [
+                "Drama",
+                "Familia",
+                "Emoção"
+            ],
             "stars": 4.3,
             "cast": [
                 {
@@ -45,7 +49,11 @@
             "release_year": "2021",
             "duration": "1h 35min",
             "distribution": "Pixar Animation",
-            "genres": "Comédia,Fantasia,Família",
+            "genres": [
+                "Comédia",
+                "Fantasia",
+                "Família"
+            ],
             "stars": 4.2,
             "cast": [
                 {
@@ -80,7 +88,11 @@
             "release_year": "2022",
             "duration": "1h 48min",
             "distribution": "Netflix",
-            "genres": "Drama,Suspense,Histórico",
+            "genres": [
+                "Drama",
+                "Suspense",
+                "Histórico"
+            ],
             "stars": 4.2,
             "cast": [
                 {
@@ -115,7 +127,11 @@
             "release_year": "2020",
             "duration": "1h 40min",
             "distribution": "Pixar Animation",
-            "genres": "Comédia,Infantil,Musical",
+            "genres": [
+                "Comédia",
+                "Infantil",
+                "Musical"
+            ],
             "stars": 4.4,
             "cast": [
                 {
@@ -150,7 +166,11 @@
             "release_year": "2021",
             "duration": "2h 35min",
             "distribution": "Legendary Entertainment",
-            "genres": "Ficção,Aventura,Drama",
+            "genres": [
+                "Ficção",
+                "Aventura",
+                "Drama"
+            ],
             "stars": 4.0,
             "cast": [
                 {
