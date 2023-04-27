@@ -1,7 +1,7 @@
 from flask import Flask, jsonify
 import json
 
-app = Flask(__name__)
+app = Flask(__name__, static_url_path='/static')
 
 with open("movies.json") as dados:
     movies = json.load(dados)
