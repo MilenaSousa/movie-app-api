@@ -1,177 +1,179 @@
-[
-    {
-        "id": 1,
-        "title": "Afetersun",
-        "resume": "Em Aftersun, no final da década de 1990, Sophie, de onze anos, e seu pai Calum passavam as férias em um clube na costa turca. Eles tomam banho, jogam bilhar e desfrutam da companhia amigável um do outro. Calum se torna a melhor versão de si mesmo quando está com Sophie. Sophie, enquanto isso, acha que tudo é possível com ele. Quando a jovem está sozinha, ela faz novos amigos e tem novas experiências. Enquanto saboreamos cada momento passado juntos, uma sensação de melancolia e mistério às vezes permeia o comportamento de Calum. Vinte anos depois, as memórias de Sophie ganham um novo significado enquanto ela tenta reconciliar o pai que conheceu com o homem que não conhecia.",
-        "background_image": "",
-        "thumbnail_image": "",
-        "directed_by": "Charlotte Wells",
-        "release_year": "2022",
-        "duration": "1h 42min",
-        "distribution": "BBC Film",
-        "genres": "Drama,Familia,Emoção",
-        "stars": 4.3,
-        "cast": [
-            {
-                "name": "Paul Mescal",
-                "profile_image": ""
-            },
-            {
-                "name": "Frankie Corio",
-                "profile_image": ""
-            },
-            {
-                "name": "Celia Rowlsin-Hall",
-                "profile_image": ""
-            },
-            {
-                "name": "Spike Fearn",
-                "profile_image": ""
-            },
-            {
-                "name": "Sally Messham",
-                "profile_image": ""
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "title": "Luca",
-        "resume": "Em Luca, acompanhamos o curioso monstro do mar chamado Luca, enquanto ele vive pastoreando alguns peixes e vive com os pais e a avó, que não o deixam chegar perto da superfície, já que lá habitam os humanos que podem matá-los. Em um dia qualquer, Luca, com muita curiosidade, acha alguns objetos que vieram da superfície e acaba conhecendo Alberto, outro monstro marinho e que coleciona objetos de humanos. Luca então decide ir com Alberto para superfície, onde ele percebe que ao entrar em contato com a terra, fica com corpo de humano e consegue andar, mas ao tocar na água suas escamas voltam. Ficando apaixonado pela amizade e por coisas que os humanos criaram, Luca e Alberto combinam de ir para a vila mais próxima e conseguir uma Vespa, assim poderão viajar o mundo.",
-        "background_image": "",
-        "thumbnail_image": "",
-        "directed_by": "Enrico Casarosa",
-        "release_year": "2021",
-        "duration": "1h 35min",
-        "distribution": "Pixar Animation",
-        "genres": "Comédia,Fantasia,Família",
-        "stars": 4.2,
-        "cast": [
-            {
-                "name": "Jacob Tremblay",
-                "profile_image": ""
-            },
-            {
-                "name": "Jack Dylan",
-                "profile_image": ""
-            },
-            {
-                "name": "Giacomo Gianniotti",
-                "profile_image": ""
-            },
-            {
-                "name": "Emma Berman",
-                "profile_image": ""
-            },
-            {
-                "name": "Jim Gaffigan",
-                "profile_image": ""
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "title": "O Milagre",
-        "resume": "Em O Milagre, inspirado no fenômeno do século 19 das 'garotas em jejum' e adaptado do aclamado romance de Emma Donoghue (Quarto), na Irlanda de 1862, uma jovem para de comer, mas permanece milagrosamente viva e bem. A enfermeira inglesa Lib Wright é levada a essa pequena vila para observar Anna O'Donnell, de onze anos. Turistas e peregrinos se reúnem para testemunhar a menina que teria sobrevivido sem comida por meses. Nesse thriller psicológico, o grande mistério gira em torno dessa aldeia, que pode estar abrigando um santo - ou mistérios mais sinistros do que parecem.",
-        "background_image": "",
-        "thumbnail_image": "",
-        "directed_by": "Sebastián Lelio",
-        "release_year": "2022",
-        "duration": "1h 48min",
-        "distribution": "Netflix",
-        "genres": "Drama,Suspense,Histórico",
-        "stars": 4.2,
-        "cast": [
-            {
-                "name": "Florence Pugh",
-                "profile_image": ""
-            },
-            {
-                "name": "Tom Burke",
-                "profile_image": ""
-            },
-            {
-                "name": "Kila Lord",
-                "profile_image": ""
-            },
-            {
-                "name": "Niamh Algar",
-                "profile_image": ""
-            },
-            {
-                "name": "Elaine Cassidy",
-                "profile_image": ""
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "title": "Soul",
-        "resume": "Em Soul, duas perguntas se destacam: Você já se perguntou de onde vêm sua paixão, seus sonhos e seus interesses? O que é que faz de você... Você? Joe Gardner é um professor de música do ensino médio que sempre sonhou em ser músico de jazz. Mas quando, finalmente, tem a chance de impressionar outros músicos durante um ensaio aberto, sofre um acidente que faz com que sua alma seja separada de seu corpo e transportada para um centro no qual as almas se desenvolvem e ganham paixões antes de serem enviadas para um recém-nascido. Joe deve trabalhar com 22, uma das almas em treinamento, que tem uma visão obscura da vida depois de ficar presa por anos no centro evitando seguir para a Terra.",
-        "background_image": "",
-        "thumbnail_image": "",
-        "directed_by": "Pete Docter",
-        "release_year": "2020",
-        "duration": "1h 40min",
-        "distribution": "Pixar Animation",
-        "genres": "Comédia,Infantil,Musical",
-        "stars": 4.4,
-        "cast": [
-            {
-                "name": "Richard Ayoade",
-                "profile_image": ""
-            },
-            {
-                "name": "Daveed Diggs",
-                "profile_image": ""
-            },
-            {
-                "name": "Tina Fey",
-                "profile_image": ""
-            },
-            {
-                "name": "Rachel House",
-                "profile_image": ""
-            },
-            {
-                "name": "Jamie Foxx",
-                "profile_image": ""
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "title": "Duna",
-        "resume": "Inspirado na série de livros de Frank Herbert, Duna se passa em um futuro longínquo. O Duque Leto Atreides administra o planeta desértico Arrakis, também conhecido como Duna, lugar de única fonte da substância rara chamada de 'melange', usada para estender a vida humana, chegar a velocidade da luz e garantir poderes sobrehumanos. Para isso ele manda seu filho, Paul Atreides (Timothée Chalamet), um jovem brilhante e talentoso que nasceu para ter um grande destino além de sua imaginação, e seus servos e concubina Lady Jessica (Rebecca Fergunson), que também é uma Bene Gesserit. Eles vão para Duna, afim de garantir o futuro de sua família e seu povo. Porém, uma traição amarga pela posse da melange faz com que Paul e Jessica fujam para os Fremen, nativos do planeta que vivem nos cantos mais longes do deserto.        ",
-        "background_image": "",
-        "thumbnail_image": "",
-        "directed_by": "Denis Villeneuve",
-        "release_year": "2021",
-        "duration": "2h 35min",
-        "distribution": "Legendary Entertainment",
-        "genres": "Ficção,Aventura,Drama",
-        "stars": 4.0,
-        "cast": [
-            {
-                "name": "Timothée Chalamet",
-                "profile_image": ""
-            },
-            {
-                "name": "Zendaya",
-                "profile_image": ""
-            },
-            {
-                "name": "Rebecca Ferguson",
-                "profile_image": ""
-            },
-            {
-                "name": "Oscar Isaac",
-                "profile_image": ""
-            },
-            {
-                "name": "Jason Momoa",
-                "profile_image": ""
-            }
-        ]
-    }
-]
+{
+    "payload": [
+        {
+            "id": 1,
+            "title": "Afetersun",
+            "resume": "Em Aftersun, no final da década de 1990, Sophie, de onze anos, e seu pai Calum passavam as férias em um clube na costa turca. Eles tomam banho, jogam bilhar e desfrutam da companhia amigável um do outro. Calum se torna a melhor versão de si mesmo quando está com Sophie. Sophie, enquanto isso, acha que tudo é possível com ele. Quando a jovem está sozinha, ela faz novos amigos e tem novas experiências. Enquanto saboreamos cada momento passado juntos, uma sensação de melancolia e mistério às vezes permeia o comportamento de Calum. Vinte anos depois, as memórias de Sophie ganham um novo significado enquanto ela tenta reconciliar o pai que conheceu com o homem que não conhecia.",
+            "background_image": "",
+            "thumbnail_image": "",
+            "directed_by": "Charlotte Wells",
+            "release_year": "2022",
+            "duration": "1h 42min",
+            "distribution": "BBC Film",
+            "genres": "Drama,Familia,Emoção",
+            "stars": 4.3,
+            "cast": [
+                {
+                    "name": "Paul Mescal",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Frankie Corio",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Celia Rowlsin-Hall",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Spike Fearn",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Sally Messham",
+                    "profile_image": ""
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Luca",
+            "resume": "Em Luca, acompanhamos o curioso monstro do mar chamado Luca, enquanto ele vive pastoreando alguns peixes e vive com os pais e a avó, que não o deixam chegar perto da superfície, já que lá habitam os humanos que podem matá-los. Em um dia qualquer, Luca, com muita curiosidade, acha alguns objetos que vieram da superfície e acaba conhecendo Alberto, outro monstro marinho e que coleciona objetos de humanos. Luca então decide ir com Alberto para superfície, onde ele percebe que ao entrar em contato com a terra, fica com corpo de humano e consegue andar, mas ao tocar na água suas escamas voltam. Ficando apaixonado pela amizade e por coisas que os humanos criaram, Luca e Alberto combinam de ir para a vila mais próxima e conseguir uma Vespa, assim poderão viajar o mundo.",
+            "background_image": "",
+            "thumbnail_image": "",
+            "directed_by": "Enrico Casarosa",
+            "release_year": "2021",
+            "duration": "1h 35min",
+            "distribution": "Pixar Animation",
+            "genres": "Comédia,Fantasia,Família",
+            "stars": 4.2,
+            "cast": [
+                {
+                    "name": "Jacob Tremblay",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Jack Dylan",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Giacomo Gianniotti",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Emma Berman",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Jim Gaffigan",
+                    "profile_image": ""
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "O Milagre",
+            "resume": "Em O Milagre, inspirado no fenômeno do século 19 das 'garotas em jejum' e adaptado do aclamado romance de Emma Donoghue (Quarto), na Irlanda de 1862, uma jovem para de comer, mas permanece milagrosamente viva e bem. A enfermeira inglesa Lib Wright é levada a essa pequena vila para observar Anna O'Donnell, de onze anos. Turistas e peregrinos se reúnem para testemunhar a menina que teria sobrevivido sem comida por meses. Nesse thriller psicológico, o grande mistério gira em torno dessa aldeia, que pode estar abrigando um santo - ou mistérios mais sinistros do que parecem.",
+            "background_image": "",
+            "thumbnail_image": "",
+            "directed_by": "Sebastián Lelio",
+            "release_year": "2022",
+            "duration": "1h 48min",
+            "distribution": "Netflix",
+            "genres": "Drama,Suspense,Histórico",
+            "stars": 4.2,
+            "cast": [
+                {
+                    "name": "Florence Pugh",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Tom Burke",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Kila Lord",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Niamh Algar",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Elaine Cassidy",
+                    "profile_image": ""
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Soul",
+            "resume": "Em Soul, duas perguntas se destacam: Você já se perguntou de onde vêm sua paixão, seus sonhos e seus interesses? O que é que faz de você... Você? Joe Gardner é um professor de música do ensino médio que sempre sonhou em ser músico de jazz. Mas quando, finalmente, tem a chance de impressionar outros músicos durante um ensaio aberto, sofre um acidente que faz com que sua alma seja separada de seu corpo e transportada para um centro no qual as almas se desenvolvem e ganham paixões antes de serem enviadas para um recém-nascido. Joe deve trabalhar com 22, uma das almas em treinamento, que tem uma visão obscura da vida depois de ficar presa por anos no centro evitando seguir para a Terra.",
+            "background_image": "",
+            "thumbnail_image": "",
+            "directed_by": "Pete Docter",
+            "release_year": "2020",
+            "duration": "1h 40min",
+            "distribution": "Pixar Animation",
+            "genres": "Comédia,Infantil,Musical",
+            "stars": 4.4,
+            "cast": [
+                {
+                    "name": "Richard Ayoade",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Daveed Diggs",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Tina Fey",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Rachel House",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Jamie Foxx",
+                    "profile_image": ""
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "Duna",
+            "resume": "Inspirado na série de livros de Frank Herbert, Duna se passa em um futuro longínquo. O Duque Leto Atreides administra o planeta desértico Arrakis, também conhecido como Duna, lugar de única fonte da substância rara chamada de 'melange', usada para estender a vida humana, chegar a velocidade da luz e garantir poderes sobrehumanos. Para isso ele manda seu filho, Paul Atreides (Timothée Chalamet), um jovem brilhante e talentoso que nasceu para ter um grande destino além de sua imaginação, e seus servos e concubina Lady Jessica (Rebecca Fergunson), que também é uma Bene Gesserit. Eles vão para Duna, afim de garantir o futuro de sua família e seu povo. Porém, uma traição amarga pela posse da melange faz com que Paul e Jessica fujam para os Fremen, nativos do planeta que vivem nos cantos mais longes do deserto.        ",
+            "background_image": "",
+            "thumbnail_image": "",
+            "directed_by": "Denis Villeneuve",
+            "release_year": "2021",
+            "duration": "2h 35min",
+            "distribution": "Legendary Entertainment",
+            "genres": "Ficção,Aventura,Drama",
+            "stars": 4.0,
+            "cast": [
+                {
+                    "name": "Timothée Chalamet",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Zendaya",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Rebecca Ferguson",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Oscar Isaac",
+                    "profile_image": ""
+                },
+                {
+                    "name": "Jason Momoa",
+                    "profile_image": ""
+                }
+            ]
+        }
+    ]
+}
