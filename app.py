@@ -19,7 +19,7 @@ def get_movies():
 # Retorna apenas um livro pelo ID
 @app.route('/movies/<int:id>', methods= ['GET'])
 def get_movie_by_id(id):
-    for movie in movies:
+    for movie in movies.get('payload'):
         if movie.get('id') == id:
             return jsonify(movie)
 
